@@ -106,6 +106,6 @@ hr{
 .navbar-light .navbar-nav .nav-link{
     padding:0 10px;
 }
-/* span .title{
-    width:calc(100%-30px);
-} */
+.title{
+    width:calc(100% - 30px);
+}
